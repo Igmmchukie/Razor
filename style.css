@@ -51,6 +51,11 @@ footer { background:#333; color:gray; padding:30px; margin-top:40px; justify-con
     border-radius: 10px;
     margin-top: 4rem;
     margin-left: 6rem;
+    text-decoration: none;
+}
+
+.glow-on-hover a {
+    text-decoration: none;
 }
 
 /* =========================
